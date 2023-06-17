@@ -1,3 +1,7 @@
+> > Use this guide with videos uploaded on youtube get maximum out of it.
+
+> > [Click here to watch full series](https://www.youtube.com/playlist?list=PL0zysOflRCek8kmc_jYl_6C7tpud7U2V_)
+
 # Singleton Design Pattern
 
 The Singleton design pattern is a creational design pattern that restricts the instantiation of a class to a single object and provides global access to that instance throughout the application. This pattern ensures that only one instance of a class is created and provides a global point of access to it.
