@@ -1,4 +1,4 @@
-> > Use this guide with videos uploaded on youtube get maximum out of it.
+> > Use this guide with videos uploaded on youtube to get maximum out of it.
 
 > > [Click here to watch full series](https://www.youtube.com/playlist?list=PL0zysOflRCek8kmc_jYl_6C7tpud7U2V_)
 
