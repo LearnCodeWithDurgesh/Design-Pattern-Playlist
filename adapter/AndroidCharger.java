@@ -1,0 +1,5 @@
+interface AndroidCharger {
+
+    void chargerAndroidPhone();
+
+}
